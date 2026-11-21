@@ -284,7 +284,7 @@ const Contestants = () => {
                 </div>
             </div>
 
-            <div className='bg-gray-800 lg:w-60 lg:h-90 md:w-60 md:h-100 sm:w-75 sm:h-105 w-65 h-130 rounded-2xl'>
+            <div className='bg-gray-800 lg:w-60 lg:h-90 md:w-60 md:h-100 sm:w-75 sm:h-105 w-65 h-120 rounded-2xl'>
                 <img src={image21} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
                 <h2 className='text-center text-[coral]'>18</h2>
                 <p className='text-white/50 p-2'>

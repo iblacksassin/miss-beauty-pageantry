@@ -19,6 +19,8 @@ import image16 from '../public/Pageant16.jpg'
 import image17 from '../public/Pageant16.jpg'
 import image18 from '../public/Pageant18.jpg'
 import image19 from '../public/Pageant18.jpg'
+import image20 from '../public/Pageant19.jpg'
+import image21 from '../public/Pageant20.jpg'
 import { Link } from 'react-router-dom'
 
 const Contestants = () => {
@@ -283,7 +285,7 @@ const Contestants = () => {
             </div>
 
             <div className='bg-gray-800 lg:w-60 lg:h-90 md:w-60 md:h-100 sm:w-75 sm:h-105 w-65 h-100 rounded-2xl'>
-                <img src={image17} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
+                <img src={image21} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
                 <h2 className='text-center text-[coral]'>18</h2>
                 <p className='text-white/50 p-2'>
                   Name: Ms Puiyi <br />
@@ -298,7 +300,7 @@ const Contestants = () => {
             </div>
 
             <div className='bg-gray-800 lg:w-60 lg:h-90 md:w-60 md:h-100 sm:w-75 sm:h-105 w-65 h-100 rounded-2xl'>
-                <img src={image18} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
+                <img src={image19} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
                 <h2 className='text-center text-[coral]'>19</h2>
                 <p className='text-white/50 p-2'>
                   Name: Freya Bre <br />
@@ -313,7 +315,7 @@ const Contestants = () => {
             </div>
 
             <div className='bg-gray-800 lg:w-60 lg:h-90 md:w-60 md:h-100 sm:w-75 sm:h-105 w-65 h-100 rounded-2xl'>
-                <img src={image19} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
+                <img src={image20} className="lg:w-60 lg:h-40 md:w-60 md:h-50 rounded-2xl" />
                 <h2 className='text-center text-[coral]'>20</h2>
                 <p className='text-white/50 p-2'>
                   Name: Hailey Brook <br />

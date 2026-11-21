@@ -11,8 +11,8 @@ export default function Vote() {
   const totalAmount = voteCount * PRICE_PER_VOTE;
 
   // Replace these with your actual tags
-  const CASH_APP_TAG = '$YourCashAppTag';
-  const PAYPAL_TAG = 'your-email@paypal.com';
+  const CASH_APP_TAG = '@RichardProulx427';
+  const PAYPAL_TAG = 'dickproulx@hotmail.com';
 
   const handleOpenPayment = (e) => {
     e.preventDefault();

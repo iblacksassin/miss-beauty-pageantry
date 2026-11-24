@@ -12,6 +12,7 @@ export default function Vote() {
 
   // Replace these with your actual tags
   const PAYPAL_TAG = 'dickproulx@hotmail.com';
+  const BITCOIN_TAG = 'bc1q9pev8fax80umq0622nf2w80sfgasw63px84g9x';
 
   const handleOpenPayment = (e) => {
     e.preventDefault();
@@ -112,6 +113,19 @@ export default function Vote() {
                   <span className="text-gray-400 block mb-0.5 font-medium">@RichardProulx427</span>
                   <span className="text-white font-mono bg-gray-800 px-2 py-1 rounded block select-all border border-gray-700">
                     {PAYPAL_TAG}
+                  </span>
+                </div>
+                <p className="text-gray-500 text-[11px] italic mt-2">
+                  * Please include the contestant's name in your transfer note, then click confirm below.
+                </p>
+              </div>
+              
+              <div className="space-y-3 mb-6 bg-gray-900/80 p-4 rounded-xl border border-gray-700 text-xs">
+                <div>
+                  <span className="text-gray-400 block mb-0.5 font-medium">💛 BITCOIN WALLET:</span>
+                  <span className="text-gray-400 block mb-0.5 font-medium"></span>
+                  <span className="text-white font-mono bg-gray-800 px-2 py-1 rounded block select-all border border-gray-700">
+                    {BITCOIN_TAG}
                   </span>
                 </div>
                 <p className="text-gray-500 text-[11px] italic mt-2">

@@ -37,7 +37,7 @@ const Contestants = () => {
                   Age: 25 <br />
                   Country: USA <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>3203</span>
+                  Votes: <span className='text-[coral]'>185</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -52,7 +52,7 @@ const Contestants = () => {
                   Age: 26 <br />
                   Country: USA <br />
                   Occupation: Stylist <br />
-                  Votes: <span className='text-[coral]'>3143</span>
+                  Votes: <span className='text-[coral]'>143</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -67,7 +67,7 @@ const Contestants = () => {
                   Age: 28 <br />
                   Country: USA <br />
                   Occupation: Photographer <br />
-                  Votes: <span className='text-[coral]'>3020</span>
+                  Votes: <span className='text-[coral]'>120</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -82,7 +82,7 @@ const Contestants = () => {
                   Age: 29 <br />
                   Country: USA <br />
                   Occupation: Stylist <br />
-                  Votes: <span className='text-[coral]'>2920</span>
+                  Votes: <span className='text-[coral]'>115</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -97,7 +97,7 @@ const Contestants = () => {
                   Age: 22 <br />
                   Country: USA <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2889</span>
+                  Votes: <span className='text-[coral]'>109</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -112,7 +112,7 @@ const Contestants = () => {
                   Age: 21 <br />
                   Country: Norway <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2850</span>
+                  Votes: <span className='text-[coral]'>95</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -127,7 +127,7 @@ const Contestants = () => {
                   Age: 23 <br />
                   Country: India <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2810</span>
+                  Votes: <span className='text-[coral]'>90</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -142,7 +142,7 @@ const Contestants = () => {
                   Age: 24 <br />
                   Country: Sweden <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2770</span>
+                  Votes: <span className='text-[coral]'>87</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -157,7 +157,7 @@ const Contestants = () => {
                   Age: 22 <br />
                   Country: France <br />
                   Occupation: Stylist <br />
-                  Votes: <span className='text-[coral]'>2715</span>
+                  Votes: <span className='text-[coral]'>85</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -172,7 +172,7 @@ const Contestants = () => {
                   Age: 27<br />
                   Country: Sweden <br />
                   Occupation: Photographer <br />
-                  Votes: <span className='text-[coral]'>2698</span>
+                  Votes: <span className='text-[coral]'>78</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -187,7 +187,7 @@ const Contestants = () => {
                   Age: 24 <br />
                   Country: South Korea <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2675</span>
+                  Votes: <span className='text-[coral]'>75</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -202,7 +202,7 @@ const Contestants = () => {
                   Age: 26 <br />
                   Country: USA <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2642</span>
+                  Votes: <span className='text-[coral]'>72</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -217,7 +217,7 @@ const Contestants = () => {
                   Age: 24 <br />
                   Country: China <br />
                   Occupation: Teacher <br />
-                  Votes: <span className='text-[coral]'>2627</span>
+                  Votes: <span className='text-[coral]'>67</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -232,7 +232,7 @@ const Contestants = () => {
                   Age: 22 <br />
                   Country: Ireland <br />
                   Occupation: Designer <br />
-                  Votes: <span className='text-[coral]'>2589</span>
+                  Votes: <span className='text-[coral]'>61</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -247,7 +247,7 @@ const Contestants = () => {
                   Age: 28 <br />
                   Country: Brazil <br />
                   Occupation: Designer <br />
-                  Votes: <span className='text-[coral]'>2552</span>
+                  Votes: <span className='text-[coral]'>59</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -262,7 +262,7 @@ const Contestants = () => {
                   Age: 28 <br />
                   Country: Philipine <br />
                   Occupation: Stylist <br />
-                  Votes: <span className='text-[coral]'>2512</span>
+                  Votes: <span className='text-[coral]'>52</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -277,7 +277,7 @@ const Contestants = () => {
                   Age: 24 <br />
                   Country: Mexico <br />
                   Occupation: Teacher <br />
-                  Votes: <span className='text-[coral]'>2490</span>
+                  Votes: <span className='text-[coral]'>50</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -292,7 +292,7 @@ const Contestants = () => {
                   Age: 29 <br />
                   Country: Malaysia <br />
                   Occupation: Model/Dj <br />
-                  Votes: <span className='text-[coral]'>2468</span>
+                  Votes: <span className='text-[coral]'>48</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -307,7 +307,7 @@ const Contestants = () => {
                   Age: 25 <br />
                   Country: Astria <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2412</span>
+                  Votes: <span className='text-[coral]'>42</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>
@@ -322,7 +322,7 @@ const Contestants = () => {
                   Age: 23 <br />
                   Country: Scotland <br />
                   Occupation: Model <br />
-                  Votes: <span className='text-[coral]'>2377</span>
+                  Votes: <span className='text-[coral]'>38</span>
                 </p>
                 <div className='text-center'>
                     <Link to="/vote" className='px-8 py-1 bg-[coral] rounded-xl'>Vote</Link>

@@ -11,7 +11,6 @@ export default function Vote() {
   const totalAmount = voteCount * PRICE_PER_VOTE;
 
   // Replace these with your actual tags
-  const CASH_APP_TAG = '@RichardProulx427';
   const PAYPAL_TAG = 'dickproulx@hotmail.com';
 
   const handleOpenPayment = (e) => {
@@ -109,13 +108,8 @@ export default function Vote() {
               {/* Payment Tags Info Box */}
               <div className="space-y-3 mb-6 bg-gray-900/80 p-4 rounded-xl border border-gray-700 text-xs">
                 <div>
-                  <span className="text-gray-400 block mb-0.5 font-medium">💚 Cash App Tag:</span>
-                  <span className="text-white font-mono bg-gray-800 px-2 py-1 rounded block select-all border border-gray-700">
-                    {CASH_APP_TAG}
-                  </span>
-                </div>
-                <div>
-                  <span className="text-gray-400 block mb-0.5 font-medium">💙 PayPal Tag / Email:</span>
+                  <span className="text-gray-400 block mb-0.5 font-medium">💙 PAYPAL:</span>
+                  <span className="text-gray-400 block mb-0.5 font-medium">@RichardProulx427</span>
                   <span className="text-white font-mono bg-gray-800 px-2 py-1 rounded block select-all border border-gray-700">
                     {PAYPAL_TAG}
                   </span>
